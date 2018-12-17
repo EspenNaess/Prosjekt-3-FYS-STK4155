@@ -1,0 +1,180 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nty}{nty}
+    \entry{DWT}{article}{}
+      \name{author}{2}{}{%
+        {{hash=77e0e98fab26e4b9b5686ceb13c28713}{Chandani}{C\bibinitperiod}{Manisha}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3aecf2a0d37debb8b53de0473eeb718b}{Kumar}{K\bibinitperiod}{Arun}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{2}{%
+        {American Journal of Information Science}%
+        {Technology}%
+      }
+      \strng{namehash}{b90b223ebead46118640ed4d500ca290}
+      \strng{fullhash}{b90b223ebead46118640ed4d500ca290}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{EEG Signal Processing for Epileptic Seizure Prediction by Using MLPNN and SVM Classifiers}
+      \field{year}{Vol. 2, No. 2, 2018}
+      \field{pages}{36\bibrangedash 41}
+      \range{pages}{6}
+    \endentry
+    \entry{Epil4}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f415bc7e3f7a2fec49ca69b713848701}{Furbass}{F\bibinitperiod}{Franz}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=0ce752deea2a1b0ca6e4b01f7cd10f9c}{Hartmann}{H\bibinitperiod}{Manfred}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=afcd062ab07520fdda46564fcbf65210}{Perko}{P\bibinitperiod}{Hannes}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=e78b0473bb37462e4230b1b28a7b265a}{Kluge}{K\bibinitperiod}{Tilmann}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9203422a137b25d98d4395b70f738a2d}
+      \strng{fullhash}{111c08a4f000a6f38abda0839940915c}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{note}{Henta 2018-12-12}
+      \field{title}{Combining time series and frequency domain analysis for a automatic seizure detection}
+      \field{year}{2012}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{url}
+      \verb https://www.researchgate.net/publication/235387071_Combining_time_series_and_frequency_domain_analysis_for_a_automatic_seizure_detection
+      \endverb
+    \endentry
+    \entry{Goodfellow-et-al-2016}{book}{}
+      \name{author}{3}{}{%
+        {{hash=5d2585c11210cf1d4512e6e0a03ec315}{Goodfellow}{G\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{Bengio}{B\bibinitperiod}{Yoshua}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ccec1ccd2e1aa86960eb2e872c6b7020}{Courville}{C\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{fullhash}{3ae53fe582e8a815b118d26947eaa326}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{10}
+      \field{note}{\url{http://www.deeplearningbook.org}}
+      \field{title}{Deep Learning}
+      \field{year}{2016}
+    \endentry
+    \entry{Epil3}{article}{}
+      \name{author}{1}{}{%
+        {{hash=af05f1ebdd32620ef1f1973cb9226731}{Joseph\bibnamedelimb V.\bibnamedelimi Campellone}{J\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim C\bibinitperiod}{U.S.\bibnamedelimi National\bibnamedelimb Library\bibnamedelimb of\bibnamedelima Medicine}{U\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{af05f1ebdd32620ef1f1973cb9226731}
+      \strng{fullhash}{af05f1ebdd32620ef1f1973cb9226731}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{2}
+      \field{note}{Henta 2018-12-12}
+      \field{title}{Partial (focal) seizure}
+      \field{year}{2018}
+      \verb{url}
+      \verb https://medlineplus.gov/ency/article/000697.htm
+      \endverb
+    \endentry
+    \entry{Epil2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2045c3e4c8c968b6f4087d7afe3136a3}{NINDS}{N\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{2045c3e4c8c968b6f4087d7afe3136a3}
+      \strng{fullhash}{2045c3e4c8c968b6f4087d7afe3136a3}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{note}{Henta 2018-12-12}
+      \field{title}{Epilepsy: Hope Through Research}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Hope-Through-Research/Epilepsies-and-Seizures-Hope-Through
+      \endverb
+    \endentry
+    \entry{Naess}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c78bfb44fa66c721d34f6d24bd6e9ef2}{Næss}{N\bibinitperiod}{Espen}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c78bfb44fa66c721d34f6d24bd6e9ef2}
+      \strng{fullhash}{c78bfb44fa66c721d34f6d24bd6e9ef2}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Teori og metodar}
+      \field{title}{Prosjekt 2 - Rapport}
+      \field{year}{2018}
+      \field{pages}{3\bibrangedash 13}
+      \range{pages}{11}
+    \endentry
+    \entry{Sergios}{book}{}
+      \name{author}{2}{}{%
+        {{hash=fd3acabdbe6cc1c8fdbab64dd76ae135}{Theodoridis}{T\bibinitperiod}{Sergios}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d9a434e0a63c39a6601c8aeab62f6546}{Koutroumbas}{K\bibinitperiod}{Konstantinos}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{b40a7473f01d514e418f2ac074992870}
+      \strng{fullhash}{b40a7473f01d514e418f2ac074992870}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Pattern Recognition}
+      \field{year}{2009}
+      \field{pages}{122}
+      \range{pages}{1}
+    \endentry
+    \entry{Epil}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a3239a9698c503ee3037b776fefb9e50}{World}{W\bibinitperiod}{Disabled}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a3239a9698c503ee3037b776fefb9e50}
+      \strng{fullhash}{a3239a9698c503ee3037b776fefb9e50}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{month}{9}
+      \field{note}{Henta 2018-12-12}
+      \field{title}{Epilepsy: Epileptic Seizures and Information}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://www.disabled-world.com/health/neurology/epilepsy/
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

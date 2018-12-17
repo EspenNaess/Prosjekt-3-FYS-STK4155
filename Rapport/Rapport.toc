@@ -1,0 +1,41 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {nynorsk}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduksjon}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Teori og metodar}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Oppsett av data}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Eigenskapsuttrekking ved PCA}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}St\IeC {\o }ttevektormaskiner (SVM)}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {a)}SVM for ikkje-line\IeC {\ae }rt separable datamengder}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {b)}L\IeC {\o }ysing av optimeringsproblem for SVMar}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {c)}Kerneltrikset}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Recurrent Neural Networks (RNN)}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {a)}Long Short-Term Memory RNN (LSTM)}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Resultat}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Resultat for eigenskapsuttrekking ved PCA}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Resultat for logistisk regresjon}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Resultat for SVM}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Resultat for MLPar}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Resultat for LSTMar}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Filstruktur for koden}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Perspektiv og konklusjonar}{22}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Vedheng}{24}

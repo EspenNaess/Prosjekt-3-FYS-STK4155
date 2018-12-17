@@ -1,0 +1,16 @@
+[1] Config.pm:324> INFO - This is Biber 2.1
+[1] Config.pm:327> INFO - Logfile is 'Rapport.blg'
+[233] biber-darwin:276> INFO - === Mon Dec 17, 2018, 00:30:03
+[233] Biber.pm:333> INFO - Reading 'Rapport.bcf'
+[1305] Biber.pm:645> INFO - Found 8 citekeys in bib section 0
+[1493] Biber.pm:2977> INFO - Processing section 0
+[1710] Biber.pm:3115> INFO - Looking for bibtex format file 'mybib.bib' for section 0
+[1714] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[1721] bibtex.pm:895> INFO - Found BibTeX data source 'mybib.bib'
+[1781] Utils.pm:146> WARN - BibTeX subsystem: /var/folders/v3/nzd3dy9d5ks1nrr5ghhmwxq80000gn/T/ZEIweUWIKV/mybib.bib_32615.utf8, line 85, warning: 61 characters of junk seen at toplevel
+[2581] UCollate.pm:66> INFO - Overriding locale 'nn-NO' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2582] UCollate.pm:66> INFO - Overriding locale 'nn-NO' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2582] Biber.pm:2854> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'nn-NO'
+[2683] bbl.pm:505> INFO - Writing 'Rapport.bbl' with encoding 'UTF-8'
+[2689] bbl.pm:596> INFO - Output to Rapport.bbl
+[2690] Biber.pm:106> INFO - WARNINGS: 1
