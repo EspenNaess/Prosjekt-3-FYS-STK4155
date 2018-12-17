@@ -44,7 +44,7 @@
 Målet med prosjektet er å undersøkja diverse maskinlæringsalgoritmar for å klassifisera om ein pasient har eit epileptisk anfall eller ikkje
 basert på målingar av elektrisk aktivitet i hjernebarken (EEG-data).
 Prosjektet oppnådde gode resultat. Med berre eit sekund med måledata vart det mogleg med
-ei klassifiseringsgrannsemd på $0.971$ for det sjølvimplementerte nevrale nettet frå prosjekt 2 om det vart gjort ei god eigenskapsuttrekking på førehand. Liknande resultat vart òg oppnådde med skikit og keras sine implementeringar.
+ei klassifiseringsgrannsemd på $0.971$ for det sjølvimplementerte nevrale nettet frå prosjekt 2 om det vart gjort ei god eigenskapsuttrekking på førehand. Liknande resultat vart òg oppnådde med scikit learn og keras sine implementeringar.
 
 RNN/LSTMar kravde inga eigenskapsuttrekking og kom opp i ei grannsemd på $0.963$ på sitt beste,
 men det er stort sannsyn for at parameterrommet vart dårleg undersøkt då det vart særs tidskrevjande å trena dei ulike LSTM-modellane.
@@ -142,9 +142,16 @@ Altså vil komponentane i resultatet av lineæravbildninga for PCA i røynda ver
 på radvektorane i transformmatrisa, bunde av at resultatvektoren $y$ vert normalisert.
 
 Eitt av måla med transformasjonen var at rekonstruksjonsfeilen mellom original og transformert data vert minimal.
-Målet er altså å minimisera MSE mellom $x_i$ og $y_i$.
-\[||x_i-y_i||=||x_i-(w\cdot x_i)w||\]
-Skriv ein det ut får ein at
+Målet er altså å minimisera MSE mellom $x_i$ og $y_i$. Uttrykket for MSE kan gjerast enklare ved at:
+\begin{align*}
+||x_i-y_i||^2&=||x_i-(w\cdot x_i)w||^2 \\
+&= (x_i-(w\cdot x_i)w)\cdot (x_i-(w\cdot x_i)w) \\
+&= x_i\cdot x_i-x_i \cdot (w\cdot x_i)w-(w\cdot x_i)w\cdot x_i+(w\cdot x_i)w\cdot (w\cdot x_i)w \\
+&= ||x_i||^2-2(w\cdot x_i)^2+(w\cdot x_i)^2\cdot w \cdot w \\
+&= ||x_i||^2-2(w\cdot x_i)^2+(w\cdot x_i)^2 \\
+&= x_i\cdot x_i - (w\cdot x_i)^2
+\end{align*}
+Ein får altså frå uttrykket ovanføre at
 \[||x_i-y_i||^2=||x_i||^2-y_i^2\]
 Tek ein MSEen av dette vert det:
 \[MSE=\frac{1}{N}\sum_{i=1}^n ||x_i-y_i||^2=\frac{1}{N}\sum_{i=1}^n ||x_i||^2-y_i^2=\frac{1}{N}\left(\sum_{i=1}^n ||x_i||^2 - \sum_{i=1}^n y_i^2\right)\]
@@ -483,7 +490,7 @@ Resultat med omsyn på ymse kernelfunksjonar på forma $K(\boldsymbol{x}_i,\bold
  \caption{Dei beste oppnådde resultata med sjølvimplementert nevralt nettverk frå prosjekt 2. Kolonnen «Nerveceller» gjev for kvar køyring ein array med talet på nerveceller for lag l gjeve ved indeks l i arrayen. }
  \label{bestMLPs}
 \end{figure*}
-Resultata for sci-kit og eiga implementering vart oppnådde ved eit tilfeldig søk gjennom utvalde parameterintervall, sjå vedhenget for skikit-resultata.
+Resultata for sci-kit og eiga implementering vart oppnådde ved eit tilfeldig søk gjennom utvalde parameterintervall, sjå vedhenget for resultat knytte til scikit-learn.
 Det vart gjort forsøk med å nytta same søkealgoritme med keras si MLP implementering, men det vart ganske treigt i samanlikning.
 Så det vart i staden gjort parametersøk med eiga implementering før dei same parametrane vart køyrde med keras si implementering.
 \begin{figure*}[h!]

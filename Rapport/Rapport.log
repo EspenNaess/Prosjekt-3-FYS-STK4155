@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.5)  17 DEC 2018 16:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.5)  17 DEC 2018 19:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1080,29 +1080,25 @@ Package pdftex.def Info: Signalsamanlikn.png used on input line 112.
 <SVM.png, id=79, 326.21875pt x 237.88875pt>
 File: SVM.png Graphic file (type png)
  <use SVM.png>
-Package pdftex.def Info: SVM.png used on input line 194.
+Package pdftex.def Info: SVM.png used on input line 201.
 (pdftex.def)             Requested size: 207.0021pt x 150.95602pt.
  [6 <./SVM.png>]
 <SVMmath.png, id=83, 362.35374pt x 316.18124pt>
 File: SVMmath.png Graphic file (type png)
  <use SVMmath.png>
-Package pdftex.def Info: SVMmath.png used on input line 221.
+Package pdftex.def Info: SVMmath.png used on input line 228.
 (pdftex.def)             Requested size: 207.0021pt x 180.62561pt.
-
-<SVMbilete.png, id=84, 393.47pt x 430.60875pt>
+ [7 <./SVMmath.png>] <SVMbilete.png, id=87, 393.47pt x 430.60875pt>
 File: SVMbilete.png Graphic file (type png)
  <use SVMbilete.png>
-Package pdftex.def Info: SVMbilete.png used on input line 242.
+Package pdftex.def Info: SVMbilete.png used on input line 249.
 (pdftex.def)             Requested size: 207.0021pt x 226.53947pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[7 <./SVMmath.png>] [8 <./SVMbilete.png>] [9] [10]
+[8 <./SVMbilete.png>] [9] [10]
 <kerneltrick.png, id=102, 783.92876pt x 322.20375pt>
 File: kerneltrick.png Graphic file (type png)
  <use kerneltrick.png>
-Package pdftex.def Info: kerneltrick.png used on input line 347.
+Package pdftex.def Info: kerneltrick.png used on input line 354.
 (pdftex.def)             Requested size: 345.0pt x 141.79958pt.
 
 
@@ -1112,7 +1108,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: LSTMcell.png Graphic file (type png)
 
 <use LSTMcell.png>
-Package pdftex.def Info: LSTMcell.png used on input line 380.
+Package pdftex.def Info: LSTMcell.png used on input line 387.
 (pdftex.def)             Requested size: 345.0pt x 226.5661pt.
  [13 <./LSTMcell.png>]
 Kapittel 3.
@@ -1121,34 +1117,34 @@ Kapittel 3.
 ] <LR_L2.png, id=116, 583.17876pt x 453.695pt>
 File: LR_L2.png Graphic file (type png)
  <use LR_L2.png>
-Package pdftex.def Info: LR_L2.png used on input line 401.
+Package pdftex.def Info: LR_L2.png used on input line 408.
 (pdftex.def)             Requested size: 241.49895pt x 187.87839pt.
 
 <LR_L1.png, id=117, 587.19376pt x 452.69125pt>
 File: LR_L1.png Graphic file (type png)
  <use LR_L1.png>
-Package pdftex.def Info: LR_L1.png used on input line 410.
+Package pdftex.def Info: LR_L1.png used on input line 417.
 (pdftex.def)             Requested size: 241.49895pt x 186.17793pt.
 
 <LR.png, id=118, 646.415pt x 537.00626pt>
 File: LR.png Graphic file (type png)
  <use LR.png>
-Package pdftex.def Info: LR.png used on input line 421.
+Package pdftex.def Info: LR.png used on input line 428.
 (pdftex.def)             Requested size: 345.0pt x 286.6031pt.
  [15 <./LR_L2.png> <./LR_L1.png>] [16 <./LR.png>] <linear.png, id=131, 590.205p
 t x 449.68pt>
 File: linear.png Graphic file (type png)
 
 <use linear.png>
-Package pdftex.def Info: linear.png used on input line 433.
+Package pdftex.def Info: linear.png used on input line 440.
 (pdftex.def)             Requested size: 276.00105pt x 210.28609pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 430--437
+Underfull \hbox (badness 10000) in paragraph at lines 437--444
 
  []
 
 
-Overfull \hbox (9.25616pt too wide) in paragraph at lines 428--438
+Overfull \hbox (9.25616pt too wide) in paragraph at lines 435--445
 \T1/cmr/m/n/10 Resultat med om-syn på ymse kernel-funk-sjo-nar på for-ma $\OML/
 cmm/m/it/10 K\OT1/cmr/m/n/10 ([][]\OML/cmm/m/it/10 ; [][]\OT1/cmr/m/n/10 ) = \O
 ML/cmm/m/it/10 ^^^\OT1/cmr/m/n/10 ([][])[]\OML/cmm/m/it/10 ^^^\OT1/cmr/m/n/10 (
@@ -1158,30 +1154,30 @@ ML/cmm/m/it/10 ^^^\OT1/cmr/m/n/10 ([][])[]\OML/cmm/m/it/10 ^^^\OT1/cmr/m/n/10 (
 [17 <./linear.png>] <poly.png, id=135, 574.145pt x 452.69125pt>
 File: poly.png Graphic file (type png)
  <use poly.png>
-Package pdftex.def Info: poly.png used on input line 443.
+Package pdftex.def Info: poly.png used on input line 450.
 (pdftex.def)             Requested size: 241.49895pt x 190.41223pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--448
+Underfull \hbox (badness 10000) in paragraph at lines 447--455
 
  []
 
 <rbf.png, id=136, 586.19pt x 448.67625pt>
 File: rbf.png Graphic file (type png)
  <use rbf.png>
-Package pdftex.def Info: rbf.png used on input line 454.
+Package pdftex.def Info: rbf.png used on input line 461.
 (pdftex.def)             Requested size: 241.49895pt x 184.84161pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 451--458
+Underfull \hbox (badness 10000) in paragraph at lines 458--465
 
  []
 
 <sigmoid.png, id=137, 601.24625pt x 451.6875pt>
 File: sigmoid.png Graphic file (type png)
  <use sigmoid.png>
-Package pdftex.def Info: sigmoid.png used on input line 464.
+Package pdftex.def Info: sigmoid.png used on input line 471.
 (pdftex.def)             Requested size: 276.00105pt x 207.35144pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--468
+Underfull \hbox (badness 10000) in paragraph at lines 468--475
 
  []
 
@@ -1189,12 +1185,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 461--468
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (10.27805pt too wide) in paragraph at lines 474--482
+Overfull \hbox (10.27805pt too wide) in paragraph at lines 481--489
  [] 
  []
 
 [18 <./poly.png> <./rbf.png>]
-Overfull \hbox (10.27805pt too wide) in paragraph at lines 491--499
+Overfull \hbox (10.27805pt too wide) in paragraph at lines 498--506
  [] 
  []
 
@@ -1202,7 +1198,7 @@ Overfull \hbox (10.27805pt too wide) in paragraph at lines 491--499
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (59.51602pt too wide) in paragraph at lines 506--513
+Overfull \hbox (59.51602pt too wide) in paragraph at lines 513--520
  [] 
  []
 
@@ -1210,12 +1206,12 @@ Overfull \hbox (59.51602pt too wide) in paragraph at lines 506--513
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [19 <./sigmoid.png>]
-Overfull \hbox (33.21689pt too wide) in paragraph at lines 524--529
+Overfull \hbox (33.21689pt too wide) in paragraph at lines 531--536
  [] 
  []
 
 
-Overfull \hbox (60.93234pt too wide) in paragraph at lines 537--544
+Overfull \hbox (60.93234pt too wide) in paragraph at lines 544--551
  [] 
  []
 
@@ -1229,14 +1225,14 @@ Kapittel 4.
 ] [23]
 Kapittel 5.
 
-Overfull \hbox (10.27805pt too wide) in paragraph at lines 583--591
+Overfull \hbox (10.27805pt too wide) in paragraph at lines 590--598
  [] 
  []
 
 [24
 
 ]
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 596.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 603.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -1291,7 +1287,7 @@ cm-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm
 uper/sfss1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-sup
 er/sfti1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uh
 vr8a.pfb>
-Output written on Rapport.pdf (28 pages, 5793376 bytes).
+Output written on Rapport.pdf (28 pages, 5793805 bytes).
 PDF statistics:
  259 PDF objects out of 1000 (max. 8388607)
  165 compressed objects within 2 object streams
