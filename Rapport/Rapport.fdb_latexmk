@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber Rapport"] 1545003001 "Rapport.bcf" "Rapport.bbl" "Rapport" 1545082656
-  "Rapport.bcf" 1545082655 102208 c784444b08cd1e1db9b84f886c56e567 ""
+["biber Rapport"] 1545003001 "Rapport.bcf" "Rapport.bbl" "Rapport" 1545082861
+  "Rapport.bcf" 1545082861 102208 c784444b08cd1e1db9b84f886c56e567 ""
   "mybib.bib" 1544971706 2397 ba8deaa0f3231b85966f6e3688c7e280 ""
   (generated)
   "Rapport.blg"
   "Rapport.bbl"
-["pdflatex"] 1545082653 "Rapport.tex" "Rapport.pdf" "Rapport" 1545082656
+["pdflatex"] 1545082859 "Rapport.tex" "Rapport.pdf" "Rapport" 1545082861
   "./LR.png" 1544786337 118665 f4d32cb29be97563a9fb35ceba4adfcd ""
   "./LR_L1.png" 1544711195 39288 685940fcd747e211d92a2403c153dacb ""
   "./LR_L2.png" 1544711146 37248 db523eaf639f106724a69bc03c239ec2 ""
@@ -190,11 +190,11 @@
   "LR_L1.png" 1544711195 39288 685940fcd747e211d92a2403c153dacb ""
   "LR_L2.png" 1544711146 37248 db523eaf639f106724a69bc03c239ec2 ""
   "LSTMcell.png" 1544968413 93303 83e70ef38deb6176d06c60425365354f ""
-  "Rapport.aux" 1545082655 11613 e8c8f76dbe7ac47fed18c5c0f35700f3 ""
+  "Rapport.aux" 1545082861 11613 e8c8f76dbe7ac47fed18c5c0f35700f3 ""
   "Rapport.bbl" 1545003006 7454 9acafbb914db4c666609a8d76f41e337 "biber Rapport"
-  "Rapport.run.xml" 1545082655 2395 4cfd2eb90977d3dcd102949077088dac ""
-  "Rapport.tex" 1545082652 44521 7700a5f1d6cd76f7e640dfdb2a6d5ce1 ""
-  "Rapport.toc" 1545082655 2188 fb5792704237c61a2fe16e762104fc59 ""
+  "Rapport.run.xml" 1545082861 2395 4cfd2eb90977d3dcd102949077088dac ""
+  "Rapport.tex" 1545082858 44524 d3d753cd7ee24fa22076a26fbbd0aee1 ""
+  "Rapport.toc" 1545082861 2188 fb5792704237c61a2fe16e762104fc59 ""
   "SVM.png" 1542056378 24637 45361029ec0a2321c202f7f643561cd7 ""
   "SVMbilete.png" 1542624461 34248 bab18de2e5754f7062bc3ffc7927a965 ""
   "SVMmath.png" 1542622516 31441 9b42efe7b2bdcbc6701086f5f68ada51 ""
